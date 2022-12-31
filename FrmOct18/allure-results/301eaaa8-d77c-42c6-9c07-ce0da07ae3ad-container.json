@@ -1,0 +1,1 @@
+{"uuid":"301eaaa8-d77c-42c6-9c07-ce0da07ae3ad","name":"testcases.smoke.LoginTest","children":["b4a7826f-c8b9-49f3-8bec-1746fc8e1c5a"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1666148920955,"stop":1666148921025}],"afters":[],"links":[],"start":1666148920903,"stop":1666148921857}
